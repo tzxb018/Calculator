@@ -49,4 +49,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    private void test() {
+      int a = 1+ 1;
+    }
 }
